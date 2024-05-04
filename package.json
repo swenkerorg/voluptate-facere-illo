@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/voluptate-facere-illo",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -33,7 +33,14 @@
     "@swenkerorg/reiciendis-dolores-inventore": "^1.0.0",
     "@swenkerorg/sunt-nemo-vitae": "^1.0.0",
     "@swenkerorg/super-duper": "^1.0.3",
-    "@swenkerorg/voluptate-voluptas-ad": "^1.0.1"
+    "@swenkerorg/voluptate-voluptas-ad": "^1.0.1",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "coercible",
